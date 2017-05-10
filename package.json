@@ -1,0 +1,22 @@
+{
+  "name": "homestudyday2",
+  "version": "1.0.0",
+  "description": "home study day 2 solutions",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kpose/Homestudyday2.git"
+  },
+  "keywords": [
+    "wordcount"
+  ],
+  "author": "richard jude ganihu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kpose/Homestudyday2/issues"
+  },
+  "homepage": "https://github.com/kpose/Homestudyday2#readme"
+}
