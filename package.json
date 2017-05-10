@@ -1,22 +1,22 @@
 {
-  "name": "homestudyday2",
+  "name": "wordcount",
   "version": "1.0.0",
-  "description": "home study day 2 solutions",
-  "main": "index.js",
+  "description": "Afunction called words that takes in a string argument and counts the occurance of each word in a string",
+  "main": "app/wordcount.js",
+  "directories": {
+    "test": "test"
+  },
   "scripts": {
     "test": "test"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kpose/Homestudyday2.git"
+    "url": "git+ssh://git@github.com/kpose/homestudyday_2.git"
   },
-  "keywords": [
-    "wordcount"
-  ],
   "author": "richard jude ganihu",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kpose/Homestudyday2/issues"
+    "url": "https://github.com/kpose/homestudyday_2/issues"
   },
-  "homepage": "https://github.com/kpose/Homestudyday2#readme"
+  "homepage": "https://github.com/kpose/homestudyday_2#readme"
 }
